@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''The addition module that adds arguments'''
+'''The module contains an addition function'''
 
 
 def add(a:float, b:float) -> float:
