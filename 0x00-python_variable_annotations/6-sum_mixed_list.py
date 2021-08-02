@@ -3,7 +3,7 @@
 from typing import List, Union
 
 
-def sum_mixed_list(mxd_lst: List[Union[int, float]]) -> list[float]:
+def sum_mixed_list(mxd_lst: List[Union[int, float]]) -> float:
     '''Takes a list with different datatypes and returns sum'''
     total = 0
     for num in mxd_lst:
